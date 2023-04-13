@@ -30,8 +30,8 @@ export const Current_Learning_skills = [
 
 export const Projects_Deatils = [
   {
-    project_name: "Gro 24/7",
-    project_Desc: "Gro 24/7 is B2B project between for reatilers.",
+    project_name: "Unilever",
+    project_Desc: "Unilever Gro 24/7 is B2B project between reatilers.",
   },
   {
     project_name: "Microsoft",
@@ -41,7 +41,7 @@ export const Projects_Deatils = [
   {
     project_name: "PwC",
     project_Desc:
-      "The project is About Nominating Teams and based reviews providing rewards to the teams",
+      "The project is about Nominating Teams and based on the reviews providing rewards to the teams",
   },
 ];
 
