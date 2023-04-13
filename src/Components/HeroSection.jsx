@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import heroImage from "../../public/mypic.png";
+import heroImage from "../../public/myPicture.png";
 import { IoLogoGithub, IoLogoLinkedin } from "react-icons/io";
 import { GoLinkExternal } from "react-icons/go";
 import { My_Github_url, My_Linked_url } from "@/Constent/Constents";
