@@ -1,6 +1,6 @@
 ## About this Project
 
-This project is about [My Portfolio](https://santhoshguntha.github.io/santhoshguntha.github.in/)
+This project is about [My Portfolio](https://gsanthosh887.github.io/santhoshguntha.github.in/)
 
 ## Used Teachnologies
 
