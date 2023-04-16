@@ -14,7 +14,7 @@ export const Current_skills = [
   { skill: "CSS" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
-  { skill: "React" },
+  { skill: "React JS" },
   { skill: "Angular" },
   { skill: "Node JS" },
   { skill: "Graphql" },
